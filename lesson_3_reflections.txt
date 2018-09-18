@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    THe changes made to the repo will be shown in the state so that both changes do not overlap. Merge works with branch changes (where both branches can have common changes or not), whereas fetch and pull should work with ancestorial changes
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
